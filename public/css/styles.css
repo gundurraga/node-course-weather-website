@@ -36,6 +36,11 @@ header a {
   text-decoration: none;
 }
 
+p {
+  color: rgb(3, 61, 88);
+  font-weight: bold;
+}
+
 .portrait {
   width: 250px;
 }
